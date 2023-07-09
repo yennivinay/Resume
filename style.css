@@ -30,6 +30,13 @@ body
 {
     padding:10px 10%;
 }
+#vinay
+{
+    overflow:visible;
+    position: fixed;
+    top:80px;
+    right:10px;
+}
 
 nav
 {
